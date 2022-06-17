@@ -1,3 +1,3 @@
 # WoolScraper
 software challenge
-the project is on the master branch
+(the project is on the master branch)
